@@ -6,6 +6,11 @@ Here are some fun statistics that were done after the project was completed.
 
 ![alt tag](https://raw.githubusercontent.com/wgma00/CSCB07Project/master/statistic.png)
 
+Here is a screenshot of the some of the JUnit testing that resulted from out test driven development.
+
+![alt tag](https://raw.githubusercontent.com/wgma00/CSCB07Project/master/testing.png)
+ 
+
 Authors
 ===
 Kareem Mohammed - kareem.mohamed@mail.utoronto.ca 
