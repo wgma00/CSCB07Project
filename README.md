@@ -1,11 +1,20 @@
-# CSCB07Project
+CSCB07Project
+-----------------------
+Here's a live demo of our CSCB07 final project. We were tasked with creating a flight booking system for a client. This took us over a month to complete as we had followed test driven development and had to attend regular weekly scrum meetings to get it right.
+
+Here are some fun statistics that were done after the project was completed.
+
 
 Authors
 ===
-Kareem Mohammed
-William Granados
-Harsh Grewal
-Lian Pakingan
+Kareem Mohammed - kareem.mohamed@mail.utoronto.ca 
+
+William Granados - me@wgma00.me
+
+Harsh Grewal - harshdeep.grewal@mail.utoronto.ca
+
+Lian Pakingan -lian2013pakingan@yahoo.ca
+
 
 Video/Demo
 ===========
