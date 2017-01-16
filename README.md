@@ -4,6 +4,7 @@ Here's a live demo of our CSCB07 final project. We were tasked with creating a f
 
 Here are some fun statistics that were done after the project was completed.
 
+![alt tag](https://raw.githubusercontent.com/wgma00/CSCB07Project/blob/master/statistic.png)
 
 Authors
 ===
